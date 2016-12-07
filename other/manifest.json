@@ -1,0 +1,16 @@
+{
+  "name": "Poké Guide",
+  "short_name": "Poké Guide",
+  "icons": [
+    
+    {
+      "src": "img/homeScreenIcon.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fafafa"
+}
